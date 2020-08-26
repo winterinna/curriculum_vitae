@@ -3,7 +3,7 @@
 Hello,
 my name is Inna Dmiterko. Here I would like to introduce myself briefly.
 
-I came to Germany a few years ago. Since then, I have successfully completed the University of Hamburg in the field of social economics with a focus on marketing and gained professional experience at several large companies in Munich. These include BMW, Amazon, Spinmaster and Siemens IoT. 
+I came to Germany a few years ago. Since then, I have successfully completed the University of Hamburg in the field of social economics with a focus on marketing (B.A.) and gained professional experience at several large companies in Munich. These include BMW, Amazon, Spinmaster and Siemens IoT. 
 
 As I am very interested in markets, people, data, figures and their interpretation, I recently discovered the exciting field of *Data Analysis & Data Science* for myself and I want to develop further in this direction. 
 
